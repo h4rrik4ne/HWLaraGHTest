@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    HWLaraGHTest
+                    HWLaraGHTest: Nächster commit
                 </div>
 
                 <div class="links">
