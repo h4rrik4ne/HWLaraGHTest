@@ -82,6 +82,11 @@
                     HWLaraGHTest: Nächster commit
                 </div>
 
+                <p>
+                    {{--{{ asset('img/my-image.jpg') }}--}}
+                    <img alt="Hello" src="/img/my-image.jpg">
+                </p>
+
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
